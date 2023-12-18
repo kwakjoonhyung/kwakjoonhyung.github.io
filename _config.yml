@@ -49,11 +49,11 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Project
-    url:               /project\_posts
+    url:               /project
   - title:             Study
-    url:               /study/
+    url:               /study
   - title:             Review
-    url:               /review/
+    url:               /review
   - title:             About
     url:               /about/
 

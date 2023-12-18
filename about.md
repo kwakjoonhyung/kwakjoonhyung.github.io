@@ -17,8 +17,6 @@ redirect_from:
 **Inha University** (March 2020 ~ February 2024)  
   - **B.S.** in Information and Communication Engineering
   - **Joonhyung Kwak**, Giwon Kim, Joohyung Seo, "Audio Data Preprocessing Technique Using Attention-Based Dynamic Window", Graduation Paper, Inha University (July 2023) [PDF](assets/grad_paper.pdf).
-  - Received a research scholarship for undergraduate researchers. (Spring 2023)
-  - Received a work scholarship from the Inha University Research and Business Foundation. (Summer ~ Winter 2021, Summer 2022 ~ Winter 2023)
   - Advisor: Prof. Yoosung Kim
 
 **Degendorf Institute of Technology** Deggendorf, Germany (February 2022 ~ July 2022)  
@@ -48,7 +46,12 @@ redirect_from:
 
 
 ## Awards  
-  - Awarded for the Han-eum contest with Kochat-based travel destination recommendation chatbot service, The Federation of Korean Information Industries, Korea (December 2021)
+  - Awarded for the Han-eum contest with **Kochat-based travel destination recommendation chatbot service**, The Federation of Korean Information Industries, Korea (December 2021)
+
+
+## Scholarships
+  - Received a research scholarship for undergraduate researchers. (Spring 2023)
+  - Received a work scholarship from the Inha University Research and Business Foundation. (Summer ~ Winter 2021, Summer 2022 ~ Winter 2023)
 
 
 ## Skills and Techniques  
@@ -59,7 +62,9 @@ redirect_from:
 
 ## Language Skills  
 **English**  
-  - Obtained an IH (Intermediate High) OPIc grade; proficient communication on diverse subjects, in August 2023  
+  - Obtained an IH (Intermediate High) OPIc grade in August 2023  
+  - Fluent
   
 **German**  
-  - A1&A2 obtained
+  - German A3&A4 obtained during exchange student in July 2022  
+  - Basic

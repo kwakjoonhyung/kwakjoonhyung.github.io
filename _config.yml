@@ -54,6 +54,11 @@ menu:
     url:               /study/
   - title:             Review
     url:               /review/
+    submenu: 
+      - title:         Event
+        url:           /event/
+      - title:         Paper
+        url:           /paper/
   - title:             About
     url:               /about/
 

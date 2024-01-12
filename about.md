@@ -17,6 +17,11 @@ redirect_from:
   Also long-term memory in Large Language Models(LLM).  
   My goal is to build an AI system(chatbot) that can think and speak like a human.
 
+
+
+
+
+
 <!--author-->
 
 

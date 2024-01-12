@@ -10,6 +10,13 @@ redirect_from:
 
 # About
 
+## Hello World!  
+  Hi, I'm Joonhyung Kwak.  
+  Expected M.S. student in Artificial Intelligence at SKKU.  
+  I'm mainly interested in Natural Language Processing, especially chatbots.  
+  Also long-term memory in Large Language Models(LLM).  
+  My goal is to build an AI system(chatbot) that can think and speak like a human.
+
 <!--author-->
 
 

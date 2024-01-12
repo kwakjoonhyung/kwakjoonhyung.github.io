@@ -8,11 +8,8 @@ KJH:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi, I'm Joonhyung Kwak.  
-    Expected M.S. student in Artificial Intelligence at SKKU.  
-    I'm mainly interested in Natural Language Processing, especially chatbots.  
-    Also speech emotion classification and multi-modal.  
-    My goal is to build an AI system(chatbot) that can think and speak like a human.
+    The blog is mainly about AI, especially NLP.  
+    If you want to know more about me, please check the About section!
     
     
   

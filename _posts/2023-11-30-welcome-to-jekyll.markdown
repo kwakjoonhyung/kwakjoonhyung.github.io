@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Joonhyung Kwak's Blog"
 date:   2023-11-30 14:56:43 +0900
 categories: jekyll update
 ---
